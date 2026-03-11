@@ -467,7 +467,7 @@ export const initializeNewUser = (userId) => {
 
     // Log welcome activity for new user
     logActivity('welcome', {
-      title: 'Welcome to CareerCraft.AI!',
+      title: 'Welcome to CareerBuilder.AI!',
       description: 'Your learning journey begins now'
     });
 
@@ -527,7 +527,7 @@ export const getRecentActivities = (userId = null) => {
   const activityLog = localStorage.getItem('activityLog');
   if (!activityLog) {
     return [
-      { id: 1, type: 'welcome', title: 'Welcome to CareerCraft.AI!', time: 'Just now', icon: '🎉' },
+      { id: 1, type: 'welcome', title: 'Welcome to CareerBuilder.AI!', time: 'Just now', icon: '🎉' },
       { id: 2, type: 'tip', title: 'Complete your first lesson to start your streak', time: '1 minute ago', icon: '💡' }
     ];
   }

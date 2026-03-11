@@ -272,7 +272,7 @@ function Roadmap() {
                 <span className="text-xl">🚀</span>
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">CareerCraft.AI</h1>
+                <h1 className="text-xl font-bold text-white">CareerBuilder.AI</h1>
                 <p className="text-white/60 text-sm">Step 2 of 2: Generate Roadmap</p>
               </div>
             </div>

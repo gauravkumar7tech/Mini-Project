@@ -92,7 +92,7 @@ function Navbar() {
                 <span className="text-2xl">🚀</span>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-white to-yellow-200 bg-clip-text text-transparent">
-                CareerCraft.AI
+                CareerBuilder.AI
               </span>
             </Link>
           </div>
