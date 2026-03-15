@@ -170,7 +170,7 @@ const Settings = () => {
             <span className="text-3xl">⚙️</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Settings</h1>
-          <p className="text-gray-600 dark:text-gray-300 mt-2">Customize your CareerCraft.AI experience</p>
+          <p className="text-gray-600 dark:text-gray-300 mt-2">Customize your CareerBuilder.AI experience</p>
         </div>
 
         {/* Message */}
